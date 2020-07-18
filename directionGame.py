@@ -7,4 +7,4 @@ while chosen_exit not in available_exits:
         print("Game Over")
         break
 
-print("Thank you for playing")
+print("Thank you for playing!")
